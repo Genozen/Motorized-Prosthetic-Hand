@@ -10,6 +10,6 @@ The purpose of this project is to explore the feasibility of adding servos to pr
 Traditional suspension system only allows a open-close hand grip, by using individual motors/servos. We can do more variety of finger controls.
 
 ## Method
-Using Arduino board with servos of any choice, I implemented the system to the 3D printed prosthetic arm designed by @Shira on Thingiverse. [YouTube Link](https://www.youtube.com/watch?v=uWL13vvi94s&feature=youtu.be).
+Using Arduino board with servos of any choice, I implemented the system to the 3D printed prosthetic arm designed by @Shira on Thingiverse. [YouTube Link](https://www.youtube.com/watch?v=uWL13vvi94s&feature=youtu.be). There's also an organization that helps to shift this movement for kids with missing fingers [Enabling the future](http://enablingthefuture.org/)
 
 ## Future Exploration
