@@ -6,8 +6,9 @@ Short demo of what this project looks like [My YouTube Page](https://youtu.be/ZE
 ![alt text](https://raw.githubusercontent.com/Genozen/Motorized-Prosthetic-Hand/main/Motorized_Prosthetic_Hand.jpg)
 
 
+```diff
 - Purpose
-
+```
 - Method
 
 - Future Exploration
